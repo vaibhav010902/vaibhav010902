@@ -3,7 +3,7 @@
 ![Beige Minimalist Personal Business LinkedIn Banner (1)](https://github.com/user-attachments/assets/2e1f3d02-7c04-49ff-b923-085fb4d99fbc)
 
 
-I'm Vaibhav Agrawwal, a driven Data Analyst and aspiring Software Engineer passionate about uncovering insights through data and building innovative software solutions. With a robust foundation in Python, SQL, C++, and Power BI, I specialize in turning raw data into actionable insights and crafting efficient solutions for complex challenges.
+I'm Vaibhav Agrawal, a driven Data Analyst and aspiring Software Engineer passionate about uncovering insights through data and building innovative software solutions. With a robust foundation in Python, SQL, C++, and Power BI, I specialize in turning raw data into actionable insights and crafting efficient solutions for complex challenges.
 
 - SQL: Skilled in querying, managing, and analyzing data.
 - Python: Expert in data manipulation, automation, and machine learning applications.
